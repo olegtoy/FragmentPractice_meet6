@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FragmentPractice_meet_6</string>
+    <string name="createNewFragm">Создать новый фрагмент</string>
+
 </resources>

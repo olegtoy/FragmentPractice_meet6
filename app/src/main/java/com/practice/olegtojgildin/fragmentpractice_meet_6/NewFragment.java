@@ -38,7 +38,6 @@ public class NewFragment extends Fragment {
         return layout;
     }
     public static NewFragment newInstance(){
-        NewFragment fragment=new NewFragment();
-        return fragment;
+        return new NewFragment();
     }
 }
